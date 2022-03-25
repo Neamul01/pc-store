@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(148, 200, 245);   
+    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 6rem;
+    padding-right: 3rem;
+}
+.header h2{
+
+    margin: 0;
+    padding: 0;
+
+}
+.header-details a{ 
+    text-decoration: none;
+    padding: 0.6rem;
+    margin-left: 0.6rem;
+    border-radius: 0.5rem;
+}
+.header-details a:hover{
+    background-color: rgb(115, 111, 111);
+    color: white;
+}
