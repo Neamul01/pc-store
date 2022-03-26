@@ -1,0 +1,11 @@
+.selected-product-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.selected-product-details img{
+    margin-left: 0.5rem;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 1rem;
+}

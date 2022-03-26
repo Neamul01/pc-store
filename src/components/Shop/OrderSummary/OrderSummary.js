@@ -9,7 +9,7 @@ const OrderSummary = ({ cart }) => {
         <div className='summary-cart'>
             <h2>Order Summary</h2>
             <div className="selected-product-list">
-                <p>Selected Product:{cart.length}</p>
+                <h4>Selected Product:{cart.length}</h4>
                 {
                     cart.map(singleCart => <ShowDetails singleCart={singleCart} key={singleCart.id}></ShowDetails>)
                 }

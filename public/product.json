@@ -1,60 +1,60 @@
 [
     {
-        "id": "623dfc9cc4c398d4347b0253",
+        "id": "1",
         "price": "1,457.63",
         "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ-f1tIxgZICs5CqFQ6piacKh5GpUQZDH-ZC2L9WIty6YhuloQECu5AY3S5dsthfggjgTZpkCMpWUA193_T1H47BRuI7oK3SET2O3Bd4MqMEb-0TXLBpRj0U2dEP7bBozhj3dFYwDEIAS2kC1qOtI-Kg-XTpEFk4Nb4kGYfhxwjLSkJYm0SC5NoIA_/s1600/pic1.jpg",
         "name": "Apple MacBook Air"
     },
     {
-        "id": "623dfc9cf5abfe1574b8333f",
+        "id": "2",
         "price": "1,298.69",
         "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_6d4mI2Np5Z6UUhLZSrK0Q13of_6LspRTdTkJ6S3CPA0c59YVs5GavusnIxmmjAwspb9ToIkHuXqWqI1b5Vu9GHBA1zJRdbsjGG3bR-sQr8CfMGk5DPEvbCBc5W85COpvvOsfBKLR7e5zFywVJXGGZSBwGTdPVbB_7VWfP1df4ryKOGOPjJUhr4Ja/s1600/pic3.jpg",
         "name": "Microsoft Surface Laptop 4"
     },
     {
-        "id": "623dfc9ca13ef8d1e31d0ea7",
+        "id": "3",
         "price": "1,706.57",
         "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix5pVQXAEuNiFUJ6fqK1PDHDlh-49CtagevbYK1d-AtSFa03HuUamcoCY1VYcg0VZLfu6H3AprxSKIuRbduZd5_OGjn9YLv7oBcjsCxuLHTh-BTPwf_EWn3mGAuvtWtHBrV9ggXM-B4auiJ2jUE9StnDXTlFcakklzDsQJB2Mjc_wOUkX8rdl0umwb/s1600/pic4.jpg",
         "name": "MacBook Pro 14-inch"
     },
     {
-        "id": "623dfc9c7844ce5700783315",
+        "id": "4",
         "price": "1,854.67",
         "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Fy5RR-ZSVT0fEiw0D6NL30e5dZtoHeEGFY5iI17P3A0D95KKCWS_v39uUEMHafeKdBl6TAZAhm22aModFAtbR204KsI09Uc8X0M0okMIveocDBkc9P3qX3diteE35ODvpLogrtNXqMwTmyBEeZ0hh5f0F_6vupe6lFMKf9f4Pf6UNR4hu23DMLxg/s1600/pic5.jpg",
         "name": "HP Spectre x360 (2021)"
     },
     {
-        "id": "623dfc9c5637dd01e7387ead",
+        "id": "5",
         "price": "2,071.22",
         "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUlRqURPM9zFOFpbREbxzGNrulJr5duvjUT3y6i4VoC3zcbhzOFhGyaHJDIlCVqhg7tdWSS34UMDzLsyPxq8ZDIJyopWHzZt1bi97CwPIV10X5sZAawWmvbWP4y1pJrfuBUuogRm6iEDkzaF51yOAjldIHpvm9t1sPp1N7IjWy2HrGQ7Run-JXvJOe/s1600/pic6.jpg",
         "name": "Dell XPS 13"
     },
     {
-        "id": "623dfc9c7368c1844f0c53f5",
+        "id": "6",
         "price": "2,241.67",
         "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc_7h2xvoJ2cGIlwGrb4knLnbcRrqfi1038C3ImIew-o5kOi4SjIP8u3rUM-szuksPE6a-puJD1aG45q3PrXcWqkjwhF9klgZlb7TzVbWF9MBXwIchgMo98tlXgaUS8Kb_igp9CrfIi6f8f8H6C85CieeDKjwOSAj30OuF0y-SZnGLuSwsLp8QHUBw/s1600/pic7.jpg",
         "name": "Razer Blade 14"
     },
     {
-        "id": "623dfc9c1e4b841b9f792595",
+        "id": "7",
         "price": "1,581.12",
         "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMZvTLUvtH2qRZOwJYb84S1ggCR2n4vXkXQajuk84DAWF-rKRN6Q3wA-tVSi1RHih2SQX_dR00byIryXONQ0m_zclYrtzEkNpxVBWkjbbvwvC27pFTcUmQ70DEhIJAANnmXePAyFuEnOL84W34dUgY1q-5Wwzi5YNv8Jseyg1muQPX0VVtfpgTAK9_/s1600/pic8.jpg",
         "name": "LG Gram 17"
     },
     {
-        "id": "623dfc9c3c1e77963c3cea63",
+        "id": "8",
         "price": "1,699.43",
         "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz-aqKJZ7b-m00WQO5PYaGls3t5zFzR_nIrTMUAhIcHo-LCkgv-Ej1pGDgjo5Bo_24e53W6Vhk9ig79QB3Gs-Sl6ybEIoDw-6DeMitQWi2k_A9tEpvg4Q9vWS4tOZV8-TKCQrhUAT-FsJcrH8q2Aahlx0l73YZBEkiDguatr7e8oAd4rqjQRSId7Hv/s1600/pic9.jpg",
         "name": "Acer Swift 3"
     },
     {
-        "id": "623dfc9cfdeef236edfce980",
+        "id": "9",
         "price": "3,486.42",
         "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbF_OB1UXMTDyUBVI_mskd8Jw80cOjBJWxnpCARzoZ2W4_fqxgJ1f3_tRfQ9XtqH7gIXAMFF0EytMyBXjPPcqKnIvxSZeC0xV-X82vWNSZgam2RC7e2BVodk8YPEgLoJ86Q7mWmbZhqchM7uNX9ZQq70dR1ngu69nI0bg1jVgF5LyiekNtgAN3N-U7/s1600/pic10.jpg",
         "name": "Asus ZenBook 13"
     },
     {
-        "id": "623dfc9cdd74d0dcc1acbd60",
+        "id": "10",
         "price": "3,778.74",
         "picture": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxWZGBTwa6r22iLZJdTOUBen8kYGLFsHhMLMsIbgswlFQLDzeZhOE2ldT3JOL8JL9nnC-BC39sBceHyiJkuDvHC5Wwp3pSpi8OrJoUz1WdN_a2qHGo4jhd1lzp4fxZ8sP27tWBXziPxr_HhrPylaoKBHhKNb9Fm7INmT8QHgHmJBIODH5CjT2URt9R/s1600/pic11.jpg",
         "name": "Asus TUF Dash F15"
