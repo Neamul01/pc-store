@@ -18,15 +18,15 @@ const Shop = () => {
 
     // choose one btn
     const chooseOneBtn = () => {
-        const randomId = Math.floor(Math.random() * cart.length + 1);
-        console.log(randomId)
-        console.log(cart)
-        // {
-        //     const filtered = cart.find(randomId === cart.id);
-        //     console.log(filtered)
-        // }
-        // setCart([])
+        const randomId = Math.floor(Math.random() * cart.length);
 
+        for (let i = 0; i < cart.length; i++) {
+            // console.log(cart[i])
+            if (i === randomId) {
+                const newCart = [cart[i]]
+                setCart(newCart)
+            }
+        }
     }
 
     //remove all btn
