@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Pc Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+Project live site link here: [https://assignment-8-pc-store.netlify.app/](https://assignment-8-pc-store.netlify.app/)
+
 
 
 # lucky-one-Neamul01
