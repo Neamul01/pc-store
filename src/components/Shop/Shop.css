@@ -1,6 +1,6 @@
 .body-container{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 1fr 4fr;
 }
 
 .cart-container{
@@ -13,4 +13,18 @@
 
 .order-summery{
     background: rgb(211, 211, 211);
+    height: 30rem;
+    position: sticky;
+}
+
+@media only screen and (max-width:500px) {
+    .body-container{
+        grid-template-columns: 1fr;
+    }
+    .cart-container{
+        grid-template-columns: 1fr;
+    }
+    .order-summery{
+        max-width: 100%;
+    }
 }

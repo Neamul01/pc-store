@@ -11,15 +11,16 @@ const Shop = () => {
     }, [])
     return (
         <div className='body-container'>
+            <div className='order-summery'>
+                <OrderSummary></OrderSummary>
+            </div>
             <div className='cart-container'>
                 {
                     products.map(product => <Product product={product} key={product.id}></Product>)
                 }
 
             </div>
-            <div className='order-summery'>
-                <OrderSummary></OrderSummary>
-            </div>
+
         </div>
     );
 };

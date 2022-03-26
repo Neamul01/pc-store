@@ -4,8 +4,8 @@
     border-radius: 0.7rem;
 }
 .cart img{
-    height: 200px;
-    width: 300px;
+    max-width: 200px;
+    max-height: 300px;
     border-radius: 0.5rem;
 }
 
@@ -28,4 +28,9 @@
 
 .cart-details button:hover{
     background-color: grey;
+}
+@media only screen and(max-width:500px) {
+    .cart{
+        max-width: 100%;
+    }
 }
